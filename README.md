@@ -12,3 +12,6 @@ dataprocess.py creates a data loader in Pytorch.
 # How to run
 Running main.py can train and test a model.
 You can just train a model or test a model by denoting some codes.
+
+# Pre-trained models
+They are available at  https://drive.google.com/drive/folders/1dwjUmNgzm5O2jd99jqg0skJDWx946yiZ?usp=sharing.
