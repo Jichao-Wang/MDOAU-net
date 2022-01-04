@@ -125,6 +125,7 @@ class ResNet(nn.Module):
 
         self.conv1_1 = nn.ConvTranspose2d(64, n_classes, kernel_size=1, stride=1,
                                           bias=False)
+        self.sigmoid = nn.Sigmoid()
 
     def _make_downlayer(self, block, init_channels, num_layer, stride=1):
         downsample = None
