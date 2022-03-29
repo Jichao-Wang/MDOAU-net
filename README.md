@@ -15,7 +15,8 @@ You can just train a model or test a model by denoting some codes.
 # Pre-trained models
 They are available at  https://drive.google.com/drive/folders/1dwjUmNgzm5O2jd99jqg0skJDWx946yiZ?usp=sharing.
 
-# Cite
+# Citing MDOAU-net
+```
 @article{wang2022mdoau,
   title={MDOAU-net: A Lightweight and Robust Deep Learning Model for SAR Image Segmentation in Aquaculture Raft Monitoring},
   author={Wang, Jichao and Fan, Jianchao and Wang, Jun},
@@ -23,3 +24,4 @@ They are available at  https://drive.google.com/drive/folders/1dwjUmNgzm5O2jd99j
   year={2022},
   publisher={IEEE}
 }
+```
